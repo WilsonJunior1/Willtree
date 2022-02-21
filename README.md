@@ -1,5 +1,4 @@
-# Willtree
-My personal "Linktree" website
+# 
 
 <div id="top"></div>
 
@@ -12,8 +11,8 @@ My personal "Linktree" website
 
 -->
 
-# Project name
-> Short description about the project.
+# Willtree
+> My personal "Linktree" website
 
 <br/>
 
