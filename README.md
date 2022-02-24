@@ -62,8 +62,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 One to two paragraph statement about your product and what it does.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -117,10 +115,9 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Responsiveness
+- [ ] All my links
+- [ ] Dinamically add more links
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
