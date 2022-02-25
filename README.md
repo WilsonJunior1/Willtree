@@ -186,13 +186,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/WilsonJunior1/Willtree.svg?style=flat-square
+[contributors-url]: https://github.com/WilsonJunior1/Willtree/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/WilsonJunior1/Willtree.svg?style=flat-square
+[forks-url]: https://github.com/WilsonJunior1/Willtree/network/members
+[stars-shield]: https://img.shields.io/github/stars/WilsonJunior1/Willtree.svg?style=flat-square
+[stars-url]: https://github.com/WilsonJunior1/Willtree/stargazers
+[license-shield]: https://img.shields.io/github/license/WilsonJunior1/Willtree.svg?style=flat-square
+[license-url]: https://github.com/WilsonJunior1/Willtree/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
  
