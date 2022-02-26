@@ -119,7 +119,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 - [ ] All my links
 - [ ] Dinamically add more links
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/WilsonJunior1/Willtree/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -143,14 +143,6 @@ We thank the following people who contributed to this project:
 
 <table>
   <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/87451080" width="100px;" alt="Wilson Júnior's picture on github"/><br>
-        <sub>
-          <b>Wilson Júnior</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="#">
         <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
